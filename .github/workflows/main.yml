@@ -13,7 +13,7 @@ jobs:
         arch:
           - riscv64_riscv64
         branch:
-          - openwrt-24.10
+          - riscv64_riscv64-v24.10.2
         package:
           - luci-app-modem
           - luci-app-sms-tool
